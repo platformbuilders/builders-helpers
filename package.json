@@ -98,7 +98,7 @@
     "lint-staged": "^10.4.0",
     "mz": "^2.7.0",
     "prettier": "^2.1.2",
-    "react-native": "^0.63.2",
+    "react-native": "^0.64.1",
     "react-native-haptic": "^1.0.1",
     "react-native-size-matters": "^0.3.1",
     "rmfr": "^2.0.0",
